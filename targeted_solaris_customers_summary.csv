@@ -1,0 +1,14 @@
+category,total_transactions,total_transaction_volume,average_transaction_amount
+grocery_pos,123638,14460822.38,116.96
+shopping_net,97543,8625149.68,88.42
+gas_transport,131659,8351732.29,63.43
+shopping_pos,5345,4797109.84,897.49
+travel,40507,4516721.68,111.5
+misc_net,3007,2121672.35,705.58
+misc_pos,2244,1509681.34,672.76
+entertainment,470,234876.41,499.74
+food_dining,45,22161.9,492.49
+home,39,17238.94,442.02
+personal_care,38,17129.98,450.79
+kids_pets,27,12182.29,451.2
+health_fitness,26,11604.92,446.34
